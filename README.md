@@ -1,14 +1,21 @@
 # Aplikasi-Rekrutmen-Karyawan-Menggunakan-Artificial-Neural-Network-dan-Flask
 
 Informasi Buku :
+
 ISBN : 
+
 Terbit :
+
 Ukuran : 15,5 x 23 cm
+
 Jumlah Halaman : 86
+
 Tebal : 0,8944 cm
+
 Penulis :
 - Burhanudin Zuhri
 - Nisa Hanum Harani
+
 Editor :
 - Cahyo Prianto
 
